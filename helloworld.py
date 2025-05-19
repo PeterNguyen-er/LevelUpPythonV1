@@ -1,1 +1,3 @@
-print"hello world"
+print("hello world!")
+print("I'm here")
+print('Whatever "here" means')
